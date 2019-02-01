@@ -1,0 +1,41 @@
+{
+  "ok": 1,
+  "data": {
+    "cardlistInfo": {
+      "v_p": 42,
+      "containerid": "2304133912105276_-_WEIBO_SECOND_PROFILE_WEIBO",
+      "title_top": "\u5fae\u535a",
+      "total": 665,
+      "filter_group": [],
+      "show_style": 1,
+      "page": null
+    },
+    "cards": [
+      {
+        "card_type": 11,
+        "card_type_name": "",
+        "title": "",
+        "display_arrow": 0,
+        "show_type": 0,
+        "card_group": [
+          {
+            "card_type": 4,
+            "desc": "\u53d1\u5e03\u5fae\u535a",
+            "pic": "https:\/\/h5.sinaimg.cn\/upload\/2017\/02\/13\/79\/fabuweibo.png",
+            "scheme": "https:\/\/m.weibo.cn\/compose?luicode=10000011&lfid=2304133912105276_-_WEIBO_SECOND_PROFILE_WEIBO",
+            "display_arrow": 1,
+            "actionlog": []
+          }
+        ]
+      },
+      {
+        "card_type": 58,
+        "itemid": "",
+        "name": "\u6682\u65e0\u5fae\u535a",
+        "scheme": ""
+      }
+    ],
+    "showAppTips": 0,
+    "scheme": "sinaweibo:\/\/cardlist?containerid=2304133912105276_-_WEIBO_SECOND_PROFILE_WEIBO&extparam=&luicode=10000011&lfid=2304133912105276_-_WEIBO_SECOND_PROFILE_WEIBO&from=1110006030"
+  }
+}
